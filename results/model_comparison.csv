@@ -1,0 +1,4 @@
+Target,Actual,Claude Forecast,Claude Error,Claude Accuracy /5,Claude Relevance /5,Claude Reliability /5,Gemini Forecast,Gemini Error,Gemini Accuracy /5,Gemini Relevance /5,Gemini Reliability /5
+S&P 500 year-end 2025,6845.500000,6550.0,4.316704404353,4.5,5,4.5,6100.0,10.890365933825,3,4,2.5
+WTI 2025 annual average,65.390000,72.0,10.108579293470,3.5,5,4,82.0,25.401437528674,2,3.5,2
+2025 Dec-to-Dec inflation,2.653304,2.8,0.146695885442,4.5,5,4.5,3.2,0.546695885442,3,4,3

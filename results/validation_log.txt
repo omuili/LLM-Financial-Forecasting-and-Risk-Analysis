@@ -1,0 +1,23 @@
+wrote data/processed/financial_dataset.csv
+wrote model inputs through 2024 and isolated 2025 actuals
+wrote results/forecast_errors.csv
+S&P 500 year-end 2025: Claude=4.32; Gemini=10.89
+WTI 2025 annual average: Claude=10.11; Gemini=25.40
+2025 Dec-to-Dec inflation: Claude=0.15; Gemini=0.55
+wrote risk metrics and risk register
+wrote results/prompt_optimization_audit.csv
+S&P 500 Baseline 0
+S&P 500 Optimized 6
+WTI Baseline 0
+WTI Optimized 6
+Inflation Baseline 0
+Inflation Optimized 6
+VALIDATION PASSED: holdout isolation, model-artifact flow, calculations, risk metrics, and prompt audit reproduced.
+test_ape_math (test_metrics.ForecastMetricTests.test_ape_math) ... ok
+test_holdout_isolation (test_metrics.ForecastMetricTests.test_holdout_isolation) ... ok
+test_results_match_saved_model_artifacts (test_metrics.ForecastMetricTests.test_results_match_saved_model_artifacts) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK

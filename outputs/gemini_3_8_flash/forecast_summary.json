@@ -1,0 +1,29 @@
+{
+  "model_name": "Gemini 3.8 Flash",
+  "role": "Model B",
+  "forecast_origin": "2024-12-31",
+  "forecasts": {
+    "sp500_2025_year_end": {
+      "point_estimate": 6100.0,
+      "plausible_range": [
+        5600.0,
+        6500.0
+      ],
+      "direction": "slightly higher"
+    },
+    "wti_2025_annual_average": {
+      "point_estimate": 82.0,
+      "plausible_range": [
+        70.0,
+        95.0
+      ],
+      "direction": "higher/firm"
+    },
+    "inflation_2025_dec_to_dec_pct": {
+      "point_estimate": 3.2,
+      "plausible_range": null,
+      "direction": "higher"
+    }
+  },
+  "note": "Structured forecast values used in the submitted SBA report."
+}

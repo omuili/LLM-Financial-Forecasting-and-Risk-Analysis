@@ -1,0 +1,4 @@
+Task,Claude Accuracy /5,Claude Relevance /5,Claude Reliability /5,Gemini Accuracy /5,Gemini Relevance /5,Gemini Reliability /5
+S&P 500,4.5,5,4.5,3,4,2.5
+WTI,3.5,5,4,2,3.5,2
+Inflation,4.5,5,4.5,3,4,3

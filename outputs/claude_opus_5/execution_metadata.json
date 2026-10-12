@@ -1,0 +1,11 @@
+{
+  "model_name": "Claude Opus 5",
+  "role": "Model A",
+  "execution_mode": "local",
+  "forecast_origin": "2024-12-31",
+  "model_input_cutoff": "2024-12-31",
+  "prompt_file": "prompts/claude_opus_5_prompts.md",
+  "structured_output_file": "outputs/claude_opus_5/forecast_summary.json",
+  "raw_transcript_committed": false,
+  "note": "Machine-specific local runner command is not hard-coded into the repository."
+}

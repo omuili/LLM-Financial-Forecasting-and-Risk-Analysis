@@ -1,0 +1,6 @@
+Risk,Evidence,Assessment,Mitigation
+Market volatility,S&P annual returns range from -19.4% (2022) to +26.9% (2021).,High variability; directional forecasts can fail quickly when macro conditions change.,Diversification; scenario analysis; drawdown limits; periodic re-estimation; human review.
+Commodity-price risk,"WTI rose 74.0% in 2021 and 39.3% in 2022, then fell 18.3% in 2023 and 14.7% in 2025.",Very high sensitivity to exogenous supply/demand shocks.,Hedging where appropriate; stress tests; exposure limits; scenario ranges rather than only point forecasts.
+Inflation / rate risk,Dec-to-Dec inflation moved from 7.17% in 2021 to 2.65% in 2025.,"Regime changes affect discount rates, credit conditions, and valuations.","Monitor inflation, rates, and policy updates; use multiple macro scenarios."
+Credit risk,"Not directly measured by the selected stock, oil, and CPI datasets.",Cannot be quantified from these datasets alone.,"Add credit spreads, defaults, leverage, coverage ratios, and borrower-level data."
+Liquidity risk,Not directly measured by annual price series.,Annual observations can hide market-depth or funding stress.,"Add bid-ask spreads, turnover, volume, funding data, and liquidity buffers."

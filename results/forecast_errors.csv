@@ -1,0 +1,4 @@
+Target,Actual,Claude Opus 5 Forecast,Gemini 3.8 Flash Forecast,Unit,Error Metric,Claude Opus 5 Error,Gemini 3.8 Flash Error
+S&P 500 year-end 2025,6845.500000,6550.0,6100.0,Index,Absolute percentage error (%),4.316704404353,10.890365933825
+WTI 2025 annual average,65.390000,72.0,82.0,$ per barrel,Absolute percentage error (%),10.108579293470,25.401437528674
+2025 Dec-to-Dec inflation,2.653304,2.8,3.2,Percent,Absolute error (percentage points),0.146695885442,0.546695885442

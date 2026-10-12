@@ -1,0 +1,7 @@
+Task,Prompt version,Control score (0-6),Historical cutoff,Grounded data values,Defined 2025 target,Uncertainty range,Drivers/risks/confidence,Anti-leakage / no invention
+S&P 500,Baseline,0,0,0,0,0,0,0
+S&P 500,Optimized,6,1,1,1,1,1,1
+WTI,Baseline,0,0,0,0,0,0,0
+WTI,Optimized,6,1,1,1,1,1,1
+Inflation,Baseline,0,0,0,0,0,0,0
+Inflation,Optimized,6,1,1,1,1,1,1
