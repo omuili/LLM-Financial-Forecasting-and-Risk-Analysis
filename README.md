@@ -90,4 +90,4 @@ tests/                  calculation tests
 
 ## Reproducibility and auditability
 
-The project preserves the historical cutoff, exact prompt text, model names, structured model forecasts, actual 2025 outcomes, deterministic scoring calculations, risk evidence, and optimization controls. No secret keys or credentials are committed.
+The project preserves the historical cutoff, exact prompt text, model names, structured model forecasts, actual 2025 outcomes, deterministic scoring calculations, risk evidence, and optimization controls.
